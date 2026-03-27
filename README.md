@@ -42,7 +42,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riyadixit-rd&layout=compact&theme=radical" />
 </p>
 
 ---
