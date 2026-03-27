@@ -11,9 +11,32 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,node,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
+
+### 🧠 AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🤖 Hardware / IoT
+- Embedded Systems  
+- Sensors & Actuators  
+- Drone Systems  
+- IoT Integration  
 
 ---
 
