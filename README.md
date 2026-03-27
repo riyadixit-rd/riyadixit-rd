@@ -30,12 +30,18 @@
 </p>
 
 ---
-
 ## 📌 Top Projects
-- 🚀 PayShield – Transaction Risk Engine  
-- 💸 Expense Fraud Detection System
-- 🤖 Smart Hiring Assistant (o going) 
-- 🧠 AI Code Reviewer  
+- 🚀 **PayShield** – Real-time Transaction Risk Engine (Fraud Detection System)  
+- 💸 **Expense Fraud Detection System (ExpenseGuard)** – Enterprise-level audit & anomaly detection tool  
+- 🚁 **Drone Control System** – App-based + autonomous drone with live streaming & waypoint navigation  
+- 🧤 **Smart Glove for Disabled** – Gesture-based assistive communication system  
+ 
+---
+
+### 🔄 Ongoing Projects
+- 🤖 **Smart Hiring Assistant** – ATS + AI-based skill gap analyzer  
+- 🧠 **AI Code Reviewer** – Automated code analysis with intelligent feedback  
+- ☀️ **Solar Charging Station** – Sustainable smart energy solution  
 
 ---
 
