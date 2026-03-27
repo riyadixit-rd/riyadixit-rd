@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 ---
