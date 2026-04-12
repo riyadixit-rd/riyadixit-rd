@@ -60,7 +60,7 @@
 - 🚀 **PayShield** – Real-time Transaction Risk Engine (Fraud Detection System)  
 - 💸 **Expense Fraud Detection System (ExpenseGuard)** – Enterprise-level audit & anomaly detection tool  
 - 🚁 **Drone Control System** – App-based + autonomous drone with live streaming & waypoint navigation  
-- 🧤 **Smart Glove for Disabled** – Gesture-based assistive communication system  
+- 🧤 **Smart Glove for Disabled People** – Gesture-based assistive communication system  
  
 ---
 
