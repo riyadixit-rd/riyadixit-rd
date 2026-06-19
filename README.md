@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Working on: AI + Full Stack Projects
+- 🔭 Working on: AIML + Full Stack Projects + Embedded Systems
 - 🌱 Learning: DSA, System Design
 - 💬 Ask me about: Web Dev, AI Projects
 
