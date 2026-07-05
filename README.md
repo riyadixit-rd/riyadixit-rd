@@ -37,26 +37,6 @@ Passionate about building scalable software, intelligent systems, and impactful 
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/riyadixit-rd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/riya-dixit-97415728a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dixitriyaspcc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 🚀 What I'm Working On
 
 - 🧩 Solving DSA problems on LeetCode
@@ -147,7 +127,7 @@ Passionate about building scalable software, intelligent systems, and impactful 
 
 ---
 
-## 📚 Core Computer Science
+## 📚 Core Subjects
 
 <p align="left">
 
@@ -316,8 +296,6 @@ class Engineer:
 
 print("Building projects that solves real problems.")
 ```
-```
-
 ---
 
 ## 📫 Let's Connect
