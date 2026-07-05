@@ -36,10 +36,6 @@ Passionate about building scalable software, intelligent systems, and impactful 
 - Backend Engineering
 - Cloud Technologies
 
-🎯 **Career Goal**
-
-To build impactful software products and contribute as a **Software Engineer** at a leading product-based company.
-
 ---
 
 ## 🌐 Connect With Me
