@@ -5,7 +5,7 @@ Software Engineer • Backend Development • Embedded Systems • AI & Machine 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Embedded+Systems+Enthusiast;AI+%26+Machine+Learning;DSA+%7C+Problem+Solver;Building+Scalable+Real-World+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Embedded+Systems+Enthusiast;AI+%26+Machine+Learning;DSA+%7C+Problem+Soling;Building+Scalable+Real-World+Applications" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Passionate about building scalable software, intelligent systems, and impactful 
 
 💻 Passionate about building scalable software and intelligent systems.
 
-🚀 Area of Interest
+🚀 Area of Interests
 
 - Software Engineering
 - Backend Development
