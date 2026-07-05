@@ -17,11 +17,10 @@ Passionate about building scalable software, intelligent systems, and impactful 
 ## 👩‍💻 About Me
 
 🎓 **B.Tech in Electronics & Communication Engineering**  
-📍 **VIT Bhopal University**
 
 💻 Passionate about building scalable software and intelligent systems.
 
-🚀 Interested in
+🚀 Area of Interest
 
 - Software Engineering
 - Backend Development
