@@ -284,8 +284,7 @@ https://github.com/riyadixit-rd/ABHRABHEDI
 
 ## 💡 Fun Fact
 
-```python
-```python
+```
 class Engineer:
 
     def solve(self, problem):
