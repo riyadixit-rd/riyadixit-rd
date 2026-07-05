@@ -64,8 +64,7 @@ Passionate about building scalable software, intelligent systems, and impactful 
 - ⚡ Building Full Stack Applications
 - 🤖 Exploring AI & Machine Learning
 - 🔌 Working on Embedded Systems Projects
-- 📚 Preparing for Software Engineering Interviews
-
+  
 ---
 
 # 💻 Tech Stack
