@@ -1,152 +1,177 @@
-<h1 align="center">Hi 👋, I'm Riya Dixit</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Software Engineer Aspirant | Python Developer</h3>
-
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Riya Dixit
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Software Engineer • Backend Development • Embedded Systems • AI &
+Machine Learning
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Python;Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+%7C+Problem+Solving;Always+Learning+New+Things" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Embedded+Systems+Enthusiast;AI+%26+Machine+Learning;DSA+%7C+Problem+Solver;Building+Scalable+Real-World+Applications" />`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+Passionate about building scalable software, intelligent systems, and
+impactful technology that bridges software and hardware.
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering at **VIT Bhopal**
-- 💻 Passionate about Software Development & Problem Solving
-- 🌱 Currently learning **Data Structures & Algorithms**, **System Design**, and **Backend Development**
-- 🚀 Interested in Full Stack Development, AI & Machine Learning
-- 🧠 Solving LeetCode regularly
-- 🎯 Aspiring Software Engineer at a top product-based company
+-   🎓 B.Tech in Electronics & Communication Engineering at **VIT Bhopal
+    University**
+-   💻 Interested in Software Engineering, Backend Development, Embedded
+    Systems and AI.
+-   🌱 Currently learning Data Structures & Algorithms, System Design
+    and Cloud.
+-   🚀 Building real-world projects with Python, React, FastAPI and
+    Machine Learning.
+-   🎯 Targeting Software Engineering roles at leading product-based
+    companies.
 
----
+------------------------------------------------------------------------
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/riya-dixit-97415728a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dixitriyaspcc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/riyadixit-rd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+```{=html}
+<p>
+```
+`<a href="https://github.com/riyadixit-rd">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/riya-dixit-97415728a">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:dixitriyaspcc@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 💻 Tech Stack
 
-<p>
+### Programming Languages
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+C • C++ • Python • SQL
 
-</p>
+### Frontend
 
----
+HTML5 • CSS3 • JavaScript • React
+
+### Backend
+
+Flask • FastAPI • REST APIs
+
+### Database
+
+MySQL
+
+### AI / ML
+
+TensorFlow • Scikit-learn • OpenCV • NumPy • Pandas
+
+### Tools
+
+Git • GitHub • VS Code • Linux • Postman • Jupyter • Arduino • Raspberry
+Pi
+
+### Core CS
+
+DSA • OOP • DBMS • Operating Systems • Computer Networks • System Design
+
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
 ## 💳 PayShield
-**AI-Powered Transaction Risk Detection System**
 
-- Python
-- Flask
-- Machine Learning
-- MySQL
-
----
+AI-powered Transaction Risk Detection System built using Flask, Python,
+Machine Learning and MySQL.
 
 ## 💰 ExpenseGuard
-**Expense Fraud Detection System**
 
-- React
-- FastAPI
-- Python
-- MySQL
-
----
+Expense Fraud Detection System using React, FastAPI, Python and MySQL.
 
 ## 🚁 ABHRABHEDI
-**Smart Drone Control System**
 
-- Python
-- OpenCV
-- Raspberry Pi
-- Computer Vision
+Smart Drone Control System integrating Python, OpenCV and Raspberry Pi.
 
----
+------------------------------------------------------------------------
 
 # 📊 GitHub Stats
 
+```{=html}
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadixit-rd&layout=compact&theme=tokyonight"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadixit-rd&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🔥 GitHub Streak
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyadixit-rd&theme=tokyonight"/>
-
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyadixit-rd&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 📈 Contribution Graph
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadixit-rd&theme=tokyo-night"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadixit-rd&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🏆 GitHub Trophies
+## 🎯 Current Focus
 
+-   Mastering DSA
+-   Backend Development
+-   AI & Machine Learning
+-   Embedded Systems
+-   Cloud Computing
+-   System Design
+
+------------------------------------------------------------------------
+
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riyadixit-rd&theme=tokyonight&row=1&column=7"/>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=riyadixit-rd&label=Profile%20Views&color=0e75b6&style=flat"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 💡 Current Focus
-
-- 🚀 Mastering Data Structures & Algorithms
-- 💻 Building impactful full-stack projects
-- 📚 Learning System Design
-- 🎯 Preparing for Software Engineering roles
-
----
-
-<h3 align="center">✨ "Consistency beats talent when talent doesn't stay consistent." ✨</h3>
-
-<h4 align="center">⭐ Thanks for visiting my profile! ⭐</h4>
+```{=html}
+<h3 align="center">
+```
+⭐ Thanks for visiting my profile! ⭐
+```{=html}
+</h3>
+```
