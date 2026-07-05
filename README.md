@@ -241,11 +241,17 @@ https://github.com/riyadixit-rd/ABHRABHEDI
 # 📊 GitHub Analytics
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyadixit-rd&theme=github_dark" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyadixit-rd&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyadixit-rd&theme=github_dark" width="48%" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadixit-rd&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyadixit-rd&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyadixit-rd&theme=github_dark&utcOffset=5.5" width="48%" />
 </p>
 
 ---
