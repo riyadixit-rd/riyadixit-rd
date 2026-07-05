@@ -291,16 +291,6 @@ https://github.com/riyadixit-rd/ABHRABHEDI
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riyadixit-rd&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 - 🚀 Advanced Data Structures & Algorithms
@@ -313,25 +303,20 @@ https://github.com/riyadixit-rd/ABHRABHEDI
 
 ---
 
-# 💼 Looking For
-
-- Software Engineering Internships
-- Backend Development Roles
-- Open Source Contributions
-- Collaborative Development Opportunities
-
----
-
 ## 💡 Fun Fact
 
 ```python
-while(not_success):
-    learn()
-    build()
-    debug()
-    improve()
+```python
+class Engineer:
 
-print("Dream Job Achieved 🚀")
+    def solve(self, problem):
+        design()
+        implement()
+        test()
+        deploy()
+
+print("Building projects that solves real problems.")
+```
 ```
 
 ---
