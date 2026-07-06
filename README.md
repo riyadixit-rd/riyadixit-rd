@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya Dixit</h1>
 
-<h3 align="center">
-Software Engineer • Backend Development • Embedded Systems • AI & Machine Learning
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Embedded+Systems+Enthusiast;AI+%26+Machine+Learning;DSA+%7C+Problem+Soling;Building+Scalable+Real-World+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Development;Machine+Learning;Embedded+Systems;Building+AI-Powered+Products" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
