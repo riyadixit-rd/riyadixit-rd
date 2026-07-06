@@ -18,7 +18,6 @@ Final year ECE student at VIT Bhopal, building AI-powered products at the inters
 
 🌱 Currently sharpening: Data Structures & Algorithms, System Design, Backend Engineering
 
-📍 Based in Agra, India
 
 ---
 
