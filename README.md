@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Development;Machine+Learning;Embedded+Systems;Building+AI-Powered+Products" />
 </p>
----
+
 
 
 ## 👩‍💻 About Me
