@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riya Dixit</h1>
 
 <h3 align="center">
-Full Stack Development • Machine Learning • Embedded Systems
+Software Engineer • Backend Development • Embedded Systems • AI & Machine Learning
 </h3>
 
 <p align="center">
-Final year ECE student at VIT Bhopal, building AI-powered products at the intersection of software and hardware — from fraud-detection ML systems to autonomous drones.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Embedded+Systems+Enthusiast;AI+%26+Machine+Learning;DSA+%7C+Problem+Soling;Building+Scalable+Real-World+Applications" />
 </p>
 
 ---
