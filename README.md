@@ -118,7 +118,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=riyadixit-rd&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyadixit-rd&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadixit-rd&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
