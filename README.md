@@ -117,8 +117,8 @@
 
 ## 📊 GitHub Activity
 
-<p align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyadixit-rd&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=riyadixit-rd&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
