@@ -130,7 +130,7 @@
 ## 🌟 Open Source
 
 - Contributed to multiple open-source repositories
-- **7+ merged Pull Requests**
+- **11+ merged Pull Requests**
 - Contributions across documentation, features and content
 - Regular Git and GitHub workflow experience
 
